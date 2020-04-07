@@ -1,0 +1,18 @@
+spring:
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: sameterayerdm@gmail.com
+    password:
+    properties:
+      mail.smtp.auth: true
+      mail.smtp.starttls.enable: true
+
+
+  jpa:
+    show-sql: true
+    open-in-view: false
+
+server:
+  port: 8080
+
