@@ -9,6 +9,8 @@
 * [Spring security](https://github.com/spring-projects/spring-security) - protect spring-based applications.
 * [Postgresql](https://github.com/postgres/postgres) - advanced object-relational database management system
 * [SockJS](https://github.com/sockjs/sockjs-client) - websocket emulation - javascript client
+* [Hibernate](https://github.com/hibernate/hibernate-orm) - a library providing object/relational mapping
+
 
 
 
