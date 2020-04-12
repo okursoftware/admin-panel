@@ -2,7 +2,7 @@
 
 #### Kullanıcıların  işlemleri içeren(giriş,kayıt,şifremi unuttum ,aktivasyon) ve  kullanıcı hareketlerini  inceleyip raporlayan bir uygulama
 
-[![shields](https://img.shields.io/badge/made%20with-java-blue?logo=java&style=for-the-badge&logoColor=white)](https://golang.org) ![shields](https://img.shields.io/badge/License-apache-green.svg?logo=read-the-docs&style=for-the-badge&logoColor=white)
+[![shields](https://img.shields.io/badge/made%20with-java-blue?logo=java&style=for-the-badge&logoColor=white)](https://java.com) ![shields](https://img.shields.io/badge/License-apache-green.svg?logo=read-the-docs&style=for-the-badge&logoColor=white)
 
 #### Kütüphaneler
 * [Spring boot ](https://github.com/spring-projects/spring-boot) - create stand-alone, production-grade Spring based Applications
